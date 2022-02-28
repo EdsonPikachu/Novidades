@@ -1,4 +1,4 @@
-# **Pikachu Entretenimentos Web Lançamentos**.
+# **Pikachu Lançamentos**.
 >
 >>> ## **Edson Gadelha**
 >    [ **sábado, 26 fevereiro 2022** ].
