@@ -16,7 +16,35 @@
 >>> ## **Link do Addon Kodi 19 Matrix**.
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu]https://bit.ly/pikachusitetv01)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusitetv02)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusitefilmes01)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusitefilmes02)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusiteserie01)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusiteserie02)](https://bit.ly/pikachu19)
+>
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachu19)
 >
 >>> ## **Link do Canal**.
 >
