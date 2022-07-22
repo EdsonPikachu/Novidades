@@ -20,7 +20,7 @@
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu]https://bit.ly/pikachusitetv01)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitetv01)](https://bit.ly/pikachu19)
 >
 >
 >> - [ **Click na foto** ].
