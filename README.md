@@ -11,7 +11,7 @@
 >>> ## **Link do kodi**.
 >
 >> - [ **Click na foto** ].
->>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/kodi01.png)](https://kodi.tv/)
+>>  [![Kodi](https://bit.ly/pikachukodimatrix)](https://kodi.tv/)
 >
 >>> ## **Link do Addon Kodi 19 Matrix**.
 >
