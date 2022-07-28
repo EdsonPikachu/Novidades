@@ -71,7 +71,7 @@
 >>> ## **Pedidos No Telegram**.
 >
 >> - [ **Click na foto** ].
->>  [![Faça Pedios No Telegram](https://bit.ly/pikachugrupotele)](https://bit.ly/pikachupedidostele)
+>>  [![Faça Pedios No Telegram](https://bit.ly/pikachupedidostele)](https://t.me/addonpikachu)
 >
 >>> ## **Link do Canal**.
 >
